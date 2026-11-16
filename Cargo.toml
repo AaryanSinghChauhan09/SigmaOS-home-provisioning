@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-home-provisioning"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS home-provisioning component - user_management"
+
+[lib]
+name = "home_provisioning"
+path = "src/lib.rs"
